@@ -1,1 +1,1 @@
-# Quals-ReadingList
+Repo containing papers for qualifying exam
