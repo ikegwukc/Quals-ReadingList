@@ -4,9 +4,60 @@
 
 # Cheat Sheet for Theo's list
 
+## Ratios:
+
+- liquidity ratios: useful for risk analysis. measures the ability to pay current obligations.
+  - Working Capital (is a popular measure of a company's ability to satisfy it's short-term obligations)
+    - = Current Assets - Current Liabilites
+
+  - Current Ratio =  Current Assets / Current Liabilites
+
+  - Acid-test ratio: A more precise ratio of working capital. This ratio excludes inventories and prepaid expenses from current assets.
+    = Quick assets / Current liabilities
+
+- Solvency Ratios: useful for risk analysis. ability to pay long term debits
+  - Debt to equity  measures reliance on creditors, rather than owners
+    = Total liabilites / Shareholders' equity
+
+  - Times interest earned indicates margin of safety provided to creditors
+    = (Net income + interest expense + taxes) / interest expense
+
+  - favorable financial leverage means earning a return on borrowed funds that exceeds the cost of borrowing the funds.
+
+- Activity ratios: measure a company's effciency in manging its Assets
+  - asset turnover ratio measures a company's effciency in using assets to generate revenue
+    = net sales/ average total Assets
+
+  - recievables turnover ratio offers and indication of how quickly a company is able to collect its accounts recievable.
+    = net credit sales / average net accounts recivable
+
+  - inventory turnover ratio measures a company's effciency in mangaing its investment in inventory
+    = cost of goods sold / average inventory balance
+
+- Profitability Ratios: assist in evulating various aspects of a company's profit making activites.
+
+  - profit margin on sales: measures the amount of net income achieved per sales
+    = net income / net sales
+
+  - Return on assets indicates a company's overall profitability
+    = profit margin on sales * asset turnover
+    = (net income / net sales) * (net sales / average total assets)
+    = net income / average total assets
+
+  - Return on shareholders' equity (ROE) measures the return to suppliers of equity capital.
+    = Net income / Average shareholders' equity
+
+
+**Additional Ratios used in the project with Theo and Vic:**    
+
+- Earnings to price ratio: earnings per share / price per share. metric for evaluating the relative attractiveness of a company's stock price compared to the current earnings of a firm.
+- Book to market ratio: book value of equity / shares outstanding times closing price. The book-to-market ratio attempts to identify undervalued or overvalued securities by taking the book value and dividing it by market value. It helps to determine the market value of a company relative to its actual worth. Investors and analysts use this comparison ratio to differentiate between the true value of a publicly traded company and investor speculation. In basic terms, if the ratio is above 1 then the stock is undervalued; if it is less than 1, the stock is overvalued. A ratio above 1 indicates that the stock price of a company is trading for less than the worth of its assets.
+- Return on Net Operating Assets: RNOA is similar to ROA except it is comprised of only operating activities. Financial analysts created the RNOA variation to hone in on operating activities. RNOA = net operating profit after tax / net operating assets.
+
+
 ## ACCY 301 Notes
 
-### Day 1 & 2 Notes  [Environment and Theoretical structure of finanical accounting]
+### Day 1 & 2 Notes  [Environment and Theoretical structure of financial accounting]
 
 ##### Economic theory of information
 - The economic goal of a society is to maximize wealth.
@@ -34,7 +85,7 @@
 - A firm can provide a positive return to investors if the entity can generate enough cash recipets from selling a product or service that exeed the cash disbursesments necessary to provide that product or service.
 
 
-- The primary objective of financial accounting is to provide informtion to investors and creditors to help them predict future cash flows.
+- The primary objective of financial accounting is to provide information to investors and creditors to help them predict future cash flows.
 
 - The information provided through financial accounting is conveyed through:
 
@@ -48,9 +99,9 @@
 
   - Either:
 
-    - Statement of other comprehensive income:  imeediately following the income statement
+    - Statement of other comprehensive income:  immediately following the income statement
 
-    - Statement of comprehensive income including info on the income statement as well as on the atatement of other comprehensive income
+    - Statement of comprehensive income including info on the income statement as well as on the statement of other comprehensive income
 
     - Comprehensive income is the total change in equity for a reporting period other than that from transactions with owners.
 
@@ -169,7 +220,7 @@
 
 - Accurals involve transactions where the cash outflow or inflow takes place in a period subsequent to expense or revenue recognition.
 
-- Accuraled liabilites represent liabilites that are recorded when an expense has been inccurred prior to making a cash payment. For example: An entity has to pay it's employees.
+- Accrued liabilites represent liabilites that are recorded when an expense has been inccurred prior to making a cash payment. For example: An entity has to pay it's employees.
 
 - Accured recivables is the opposite of accured liabilites. It involves situations when the revnue is recognized in a period prior being paid.
 
@@ -186,17 +237,104 @@
 - Limitations: Assets minus liabilities is not likely to represent the market value of the entity (number of common stock shares outstanding multiplied by price per share)
 
 
-- Assets are:
-  - Current Assets: 
+The operating cycle for a typical manufacturing plant:
+![./ACCY301_notes/imgs/Day4-OCycle.png](./ACCY301_notes/imgs/Day4-OCycle.png)
 
-  - Long-term Assets:
 
-- Liabilities:
-  - Current Liabilities:
+- Assets can be either:
+  - Current Assets: Include cash and all other assets expected to become cash or consumed within 1 year or the operating cycle.
+  - Examples:
+    - Cash (Bank drafts, Cashier's checks, Money Orders)
+    - CASH EQUIVALENTS: TREASURY BILLS (U.S. GOVERNMENT OBLIGATIONS having 91-182 day maturities), COMMERICAL PAPER (short term notes 20 to 270 days), MONEY MARKET FUNDS (Variation of the mutual fund), MONEY MARKET SAVING CERTIFICATES (Issued by banks or savings and loans institutions)
 
-  - Non-Current Liabilities:
+  - Noncurrent Assets: Include cash and all other assets expected to become cash or consumed after 1 year or the operating cycle.
+    - Property Plant and equipment: Tangible, long-lived assets used in the operations of the business. (i.e land, buildings, equipment, machinery, furniture)
+    - Investments: Assets not used directly in the operations of the business (noncurrent receivables, cash set aside for special purposes)
+    - Intangible Assets: Something without physical existence and represent exclusive rights to a product, process, (i.e:  patents, copyrights, franchises, goodwill)
+    - Other Assets: catch-all classification that includes long-term prepaid expenses, called deferred charges, and any noncurrent asset not falling in one of the other classifications
 
-- Shareholders' Equity:
-  - Paid-in capital:
+- Tidbits about Assets:
+  - If the cash in a checking acc is not enough to pay for an obligation, the bank procides the difference. Bank overdrafts are usually reported as a liability.
+  - Short-term investments are classified as current  if the company mangement intends to liquidate the investment in the next year or operating cycle.
+  - Accounts recievable arise from the sale of foods or services on credit.
+  - Inventories consist of assets that a retail or wholesale company acquires for resale or goods that manufacturers produce for resale
+  - Prepaid expenses arise when a cash payment creates benefits beyond the current period
 
-  - Retained Earnings:
+- Liabilities can be either:
+  - Current Liabilities: those obligations that are expected to be satisfied within 1 year or the operating cycle, whichever is longer.
+
+    - Accounts payable: Obligations to suppliers of merchandise or services purchased on open accounts. Payments are usually due in 30-60 days.
+
+    - Notes payable: Written promises to pay cash at some future date.
+
+    - Deferred Revenues: Represent cash recived from a customer for goods or services to be provided in a future period.
+
+    - Accured liabilities: Obligations created when expenses have been incurred but won't be paid until a subsequent reporting period
+
+    - Current maturities of Long-Term Debt
+
+  - Non-Current Liabilities: those obligations that are expected to be satisfied after 1 year
+    - Shareholders' equity is comprised of paid-in (invested) capital and retained earnings
+      - Paid-in capital: Amounts invested by Shareholders
+      - Retained earnings: accumulated net income reported since the inception of the company and not yet paid to shareholders
+
+
+### Day 5
+
+- The broad usefulness of the income statement is to indicate the value added by operating activites of a firm over a specific period.
+
+- The income statement reports flows of values.
+
+- The balance statement reports stocks of values
+
+- Income from continuing Operations includes revenues, expenses, fains, and losses that will most likely continue in future periods
+
+- Revenues are inflows of resources resulting from providings goods or services to customers.
+
+- Expenses are outflows of resources incurred while generating revnue.
+
+- Gains or Losses are increases or decreases in equity.
+
+- Operating income includes revenue and expenses directly related to the primary revenue-generating activites of the company.
+
+- Non Operating income relates to peripheral or incidentals activites of the company.
+
+- Income tax expense is shown as a separate expense.
+
+- A single-step income statement format groups all revenues and gains together and all expenses and losses together
+
+  - Example: ![./ACCY301_notes/imgs/Day5-SingleStepIncome..png](./ACCY301_notes/imgs/Day5-SingleStepIncome.png)
+
+
+- A Multiple-step income statement format includes a number of intermediate subtotals before arriving at income  from continuing operatopms/
+
+  - Example: ![./ACCY301_notes/imgs/Day5-MultStepIncome.png](./ACCY301_notes/imgs/Day5-MultStepIncome.png)
+
+- In the US, the bottom line  of the income statement usually is called net income or net loss.
+
+- Earnings Quality refers the ability of reported earnings to predict a company's future earnings.
+
+- To enhance predictive value analysts try to separate a company's temp earnings from its permanent earnings.
+
+  - Many believe that corporate earnings management practices reduce the quality of earnings. i.e smoothing accural estimates & classification shifting.
+
+- Not all items for the operating income should be considered indicative of a company's permanent earnings. i.e:
+  - Restructing costs include costs associated with shutdown or relocation of facilities or downsizing of operations.
+
+  - Asset impairment losses, inventory write-down charges, losses from natural disasters
+
+  - Earnings quality is affected by revenue issues as well
+
+- Discontinued Operations involve the disposal or planned disposal of a component of an entity and must be reporting seperately on the income statement
+
+- Earnings per share (EPS) - is the amount of income reported during a period for each share of common stock outstanding.
+
+- All corporations whose common stock is publicly traded must disclose EPS.
+
+- Basic EPS = net income / weighted common shares outstanding
+
+- Diluted EPS accounts for the dilution effect  in EPS if theres a increase in common shares outstanding
+
+- Comprehensive income is the total change in quity for a reporting period other than that from transactions with owners.
+
+- The statement of cash flows provides information about cash receipts and cash disbursements that occured during a period. (flows of value)
