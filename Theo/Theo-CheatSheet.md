@@ -8,33 +8,33 @@
 
 - liquidity ratios: useful for risk analysis. measures the ability to pay current obligations.
   - Working Capital (is a popular measure of a company's ability to satisfy it's short-term obligations)
-    - = Current Assets - Current Liabilites
+    - = Current Assets - Current Liabilities
 
-  - Current Ratio =  Current Assets / Current Liabilites
+  - Current Ratio =  Current Assets / Current Liabilities
 
   - Acid-test ratio: A more precise ratio of working capital. This ratio excludes inventories and prepaid expenses from current assets.
     = Quick assets / Current liabilities
 
 - Solvency Ratios: useful for risk analysis. ability to pay long term debits
   - Debt to equity  measures reliance on creditors, rather than owners
-    = Total liabilites / Shareholders' equity
+    = Total Liabilities / Shareholders' equity
 
   - Times interest earned indicates margin of safety provided to creditors
     = (Net income + interest expense + taxes) / interest expense
 
   - favorable financial leverage means earning a return on borrowed funds that exceeds the cost of borrowing the funds.
 
-- Activity ratios: measure a company's effciency in manging its Assets
-  - asset turnover ratio measures a company's effciency in using assets to generate revenue
+- Activity ratios: measure a company's efficiency in managing its Assets
+  - asset turnover ratio measures a company's efficiency in using assets to generate revenue
     = net sales/ average total Assets
 
-  - recievables turnover ratio offers and indication of how quickly a company is able to collect its accounts recievable.
-    = net credit sales / average net accounts recivable
+  - receivables turnover ratio offers and indication of how quickly a company is able to collect its accounts receivable.
+    = net credit sales / average net accounts receivable
 
-  - inventory turnover ratio measures a company's effciency in mangaing its investment in inventory
+  - inventory turnover ratio measures a company's efficiency in managing its investment in inventory
     = cost of goods sold / average inventory balance
 
-- Profitability Ratios: assist in evulating various aspects of a company's profit making activites.
+- Profitability Ratios: assist in evaluating various aspects of a company's profit making activities.
 
   - profit margin on sales: measures the amount of net income achieved per sales
     = net income / net sales
@@ -82,7 +82,7 @@
 - Firms acquire capital from investors in exchange for ownership interest and by borrowing from creditors (loans & bonds).
 
 
-- A firm can provide a positive return to investors if the entity can generate enough cash recipets from selling a product or service that exeed the cash disbursesments necessary to provide that product or service.
+- A firm can provide a positive return to investors if the entity can generate enough cash receipts from selling a product or service that exceed the cash disbursements necessary to provide that product or service.
 
 
 - The primary objective of financial accounting is to provide information to investors and creditors to help them predict future cash flows.
@@ -91,7 +91,7 @@
 
   - Balance Sheet or statement of financial position:  The broad usefulness of the balance sheet is to indicate how the assets of the firm were financed.
 
-  - Income statement or statement of operations: The broad usefulness of the income statement is to indicate the Value Added by the operating activites of the firm over  specific period.
+  - Income statement or statement of operations: The broad usefulness of the income statement is to indicate the Value Added by the operating activities of the firm over  specific period.
 
   - Statement of cash flows:  The purpose of the statement of cash flows (SCF) is to provide information about cash receipts and cash disbursements that occurred during a period (it reports flows of value). A SCF is presented for each period in which results of operations are provided.
 
@@ -106,11 +106,11 @@
     - Comprehensive income is the total change in equity for a reporting period other than that from transactions with owners.
 
 
-##### Cash versus accural accounting
+##### Cash versus accrual accounting
 
-- Over short periods of time, recording only cash flow is not accurate. The accural accounting model records both cash flows and accruals and provides a measure of periodic performance called **net income**.
+- Over short periods of time, recording only cash flow is not accurate. The accrual accounting model records both cash flows and accruals and provides a measure of periodic performance called **net income**.
 
-- **net income is a product of using accural accounting. net income =  income -  Cost of Goods Sold (COGS) - expenses - taxes
+- **net income is a product of using accrual accounting. net income =  income -  Cost of Goods Sold (COGS) - expenses - taxes
 
 - **current net operating cash flows** is a product from cash accounting
 
@@ -119,7 +119,7 @@
 
 ##### Why is accounting regulated
 
-- When companies use the same rules to do the accounting, the users of the finanical statements can compare financial information over time for a company and among companies.
+- When companies use the same rules to do the accounting, the users of the financial statements can compare financial information over time for a company and among companies.
 
 
 ##### The Conceptual Framework
@@ -129,12 +129,12 @@
 - Conceptual Framework: ![./ACCY301_notes/imgs/cFrameWork.png](./ACCY301_notes/imgs/cFrameWork.png)
 
 
-- Recall the objective is to provide financial info that is useful to people who proivde capital.
+- Recall the objective is to provide financial info that is useful to people who provide capital.
 
 - Qualitative Characteristics of accounting information:
   - **Relevance:** Should be relevant such that the elements have predictive value; can be confirmed  and they are material (or note-worthy). i.e a piece of information about $5 revenue is not material for a company like apple.
 
-  - **Faithful Representation:** The info provided is complete. This is necessary for faithful representation. Accounting standards used should be set with overall societalgoals and specific objectives in mind, and should try not to favor particular groups or companies. Should be free from error. Verification should be required of the information. i.e greater verification before recognizing good news than bad news
+  - **Faithful Representation:** The info provided is complete. This is necessary for faithful representation. Accounting standards used should be set with overall societal goals and specific objectives in mind, and should try not to favor particular groups or companies. Should be free from error. Verification should be required of the information. i.e greater verification before recognizing good news than bad news
 
   - **Enhancing:** The info provided should help users of the info see the similarities and diffs among events and conditions. Users must be able to understand the information.
 
@@ -146,32 +146,32 @@
 
     - Going Concern Assumption: In the absence of information to the contrary, it is anticipated that a business entity will continue to operate indefinitely.
 
-    - Periodicity Assumption: The life of a company can be divided into artifical time periods to provide timely information to external Users.
+    - Periodicity Assumption: The life of a company can be divided into artificial time periods to provide timely information to external Users.
 
-    - Monetary Unity Assumption: Finanical statement elements should be measured in terms of the USD.
+    - Monetary Unity Assumption: Financial statement elements should be measured in terms of the USD.
 
   - Principles:
-    - Revenue recognition: revenue is recognixed when the seller transfers goods and services to customers but does not allow revenue exognition if it is not probable that the seller will receive the cash it is entitled to receive.
+    - Revenue recognition: revenue is recognized when the seller transfers goods and services to customers but does not allow revenue recognition if it is not probable that the seller will receive the cash it is entitled to receive.
 
-    - Expense recognition: typically pccurs in the period in which expenses are incurred to produce revenue.
-      - Mathcing Principle requires first recognizing revnue and then recognizing all expenses that were iccurred to generate that revnue.
+    - Expense recognition: typically occurs in the period in which expenses are incurred to produce revenue.
+      - Matching Principle requires first recognizing revenue and then recognizing all expenses that were incurred to generate that revenue.
 
-    - Measurement - assoicating numerical amount to assets, liabilities, equity.
+    - Measurement - associating numerical amount to assets, liabilities, equity.
       - There are 5 measurements:
-        - Historical Cost: amount given or recieved in the original exchange transactions
+        - Historical Cost: amount given or received in the original exchange transactions
         - Net realizable value: amount of cash into which the asset or liability will be converted in the ordinary course of business
-        -  Current cost: the cost that would be inccurred to purchase or reproduce an assets- resent value: future cash flows discounted for the time value of Monetary
-        - Fair value: the price that would be recieved to sell assets or transfer liabilites in an orderly market transaction.
+        -  Current cost: the cost that would be incurred to purchase or reproduce an assets- resent value: future cash flows discounted for the time value of Monetary
+        - Fair value: the price that would be received to sell assets or transfer liabilities in an orderly market transaction.
 
     - Disclosure -  financial reports should include any info that could affect the decisions made by external users, subject to of course the cost effectiveness constraint.
 
-- elements (I find Theo's defintions a bit diffcult to remember so I paraphrase the following or use alternative defintions):
+- elements (I find Theo's definitions a bit difficult to remember so I paraphrase the following or use alternative definitions):
 
   - Assets: An entity's resources i.e things a company owns.
-  - liabilites: An entity's obligations. i.e the amounds the company owes.
+  - liabilities: An entity's obligations. i.e the amounts the company owes.
   - Equity: an ownership interest in a business,
   - Investments by owners: Increases in equity of a particular business enterprise
-  - Distribution to ownerss: Decrease in equity of a particular enterprise resulting from transfers to owners
+  - Distribution to owners: Decrease in equity of a particular enterprise resulting from transfers to owners
   - Comprehensive income: The change in equity during a period from transactions and other events  from nonowner sources.
   - Revenues: Inflows, increases  in assets, or settlements of liabilities.
   - Expenses: Outflows, decreases in assets, or incurrences of liabilities.
@@ -184,7 +184,7 @@
 
 ##### The Accounting processing cycle
 
-1. Obtain info about transactions from source documents (recipts, notes, etc.)
+1. Obtain info about transactions from source documents (receipts, notes, etc.)
 
 2. Perform transaction analysis where you review the source documents from Step 1 and determine the economic implications of the transactions
 
@@ -208,7 +208,7 @@
 
 10. Prepare a post-closing trail balance.
 
-- Accounting Equation: Assets = Liabilites + Shareholder's Equity
+- Accounting Equation: Assets = Liabilities + Shareholder's Equity
 
   - Shareholders Equity = Paid-in Capital + Retained Earnings
     - Revenues & Gains increase Retained Earnings
@@ -218,11 +218,11 @@
 
 - Deferred revenues represent liabilities recorded when cash is received from customers before the entity provides them with goods or services.
 
-- Accurals involve transactions where the cash outflow or inflow takes place in a period subsequent to expense or revenue recognition.
+- Accruals involve transactions where the cash outflow or inflow takes place in a period subsequent to expense or revenue recognition.
 
-- Accrued liabilites represent liabilites that are recorded when an expense has been inccurred prior to making a cash payment. For example: An entity has to pay it's employees.
+- Accrued liabilities represent liabilities that are recorded when an expense has been incurred prior to making a cash payment. For example: An entity has to pay it's employees
 
-- Accured recivables is the opposite of accured liabilites. It involves situations when the revnue is recognized in a period prior being paid.
+- Accrued receivables is the opposite of accrued liabilities. It involves situations when the revenue is recognized in a period prior being paid.
 
 - Estimates are other made to comply with the accrual accounting model.
 
@@ -237,8 +237,7 @@
 - Limitations: Assets minus liabilities is not likely to represent the market value of the entity (number of common stock shares outstanding multiplied by price per share)
 
 
-The operating cycle for a typical manufacturing plant:
-![./ACCY301_notes/imgs/Day4-OCycle.png](./ACCY301_notes/imgs/Day4-OCycle.png)
+The operating cycle for a typical manufacturing plant:![./ACCY301_notes/imgs/Day4-OCycle.png](./ACCY301_notes/imgs/Day4-OCycle.png)
 
 
 - Assets can be either:
@@ -254,9 +253,9 @@ The operating cycle for a typical manufacturing plant:
     - Other Assets: catch-all classification that includes long-term prepaid expenses, called deferred charges, and any noncurrent asset not falling in one of the other classifications
 
 - Tidbits about Assets:
-  - If the cash in a checking acc is not enough to pay for an obligation, the bank procides the difference. Bank overdrafts are usually reported as a liability.
-  - Short-term investments are classified as current  if the company mangement intends to liquidate the investment in the next year or operating cycle.
-  - Accounts recievable arise from the sale of foods or services on credit.
+  - If the cash in a checking acc is not enough to pay for an obligation, the bank provides the difference. Bank overdrafts are usually reported as a liability.
+  - Short-term investments are classified as current  if the company management intends to liquidate the investment in the next year or operating cycle.
+  - Accounts receivable arise from the sale of foods or services on credit.
   - Inventories consist of assets that a retail or wholesale company acquires for resale or goods that manufacturers produce for resale
   - Prepaid expenses arise when a cash payment creates benefits beyond the current period
 
@@ -267,9 +266,9 @@ The operating cycle for a typical manufacturing plant:
 
     - Notes payable: Written promises to pay cash at some future date.
 
-    - Deferred Revenues: Represent cash recived from a customer for goods or services to be provided in a future period.
+    - Deferred Revenues: Represent cash received from a customer for goods or services to be provided in a future period.
 
-    - Accured liabilities: Obligations created when expenses have been incurred but won't be paid until a subsequent reporting period
+    - Accrued liabilities: Obligations created when expenses have been incurred but won't be paid until a subsequent reporting period
 
     - Current maturities of Long-Term Debt
 
@@ -281,23 +280,23 @@ The operating cycle for a typical manufacturing plant:
 
 ### Day 5
 
-- The broad usefulness of the income statement is to indicate the value added by operating activites of a firm over a specific period.
+- The broad usefulness of the income statement is to indicate the value added by operating activities of a firm over a specific period.
 
 - The income statement reports flows of values.
 
 - The balance statement reports stocks of values
 
-- Income from continuing Operations includes revenues, expenses, fains, and losses that will most likely continue in future periods
+- Income from continuing Operations includes revenues, expenses, gains, and losses that will most likely continue in future periods
 
-- Revenues are inflows of resources resulting from providings goods or services to customers.
+- Revenues are inflows of resources resulting from providing goods or services to customers.
 
-- Expenses are outflows of resources incurred while generating revnue.
+- Expenses are outflows of resources incurred while generating revenue.
 
 - Gains or Losses are increases or decreases in equity.
 
-- Operating income includes revenue and expenses directly related to the primary revenue-generating activites of the company.
+- Operating income includes revenue and expenses directly related to the primary revenue-generating activities of the company.
 
-- Non Operating income relates to peripheral or incidentals activites of the company.
+- Non Operating income relates to peripheral or incidentals activities of the company.
 
 - Income tax expense is shown as a separate expense.
 
@@ -306,7 +305,7 @@ The operating cycle for a typical manufacturing plant:
   - Example: ![./ACCY301_notes/imgs/Day5-SingleStepIncome..png](./ACCY301_notes/imgs/Day5-SingleStepIncome.png)
 
 
-- A Multiple-step income statement format includes a number of intermediate subtotals before arriving at income  from continuing operatopms/
+- A Multiple-step income statement format includes a number of intermediate subtotals before arriving at income  from continuing operations:
 
   - Example: ![./ACCY301_notes/imgs/Day5-MultStepIncome.png](./ACCY301_notes/imgs/Day5-MultStepIncome.png)
 
@@ -316,16 +315,16 @@ The operating cycle for a typical manufacturing plant:
 
 - To enhance predictive value analysts try to separate a company's temp earnings from its permanent earnings.
 
-  - Many believe that corporate earnings management practices reduce the quality of earnings. i.e smoothing accural estimates & classification shifting.
+  - Many believe that corporate earnings management practices reduce the quality of earnings. i.e smoothing accrual estimates & classification shifting.
 
 - Not all items for the operating income should be considered indicative of a company's permanent earnings. i.e:
-  - Restructing costs include costs associated with shutdown or relocation of facilities or downsizing of operations.
+  - Restructuring costs include costs associated with shutdown or relocation of facilities or downsizing of operations.
 
   - Asset impairment losses, inventory write-down charges, losses from natural disasters
 
   - Earnings quality is affected by revenue issues as well
 
-- Discontinued Operations involve the disposal or planned disposal of a component of an entity and must be reporting seperately on the income statement
+- Discontinued Operations involve the disposal or planned disposal of a component of an entity and must be reporting separately on the income statement
 
 - Earnings per share (EPS) - is the amount of income reported during a period for each share of common stock outstanding.
 
@@ -335,6 +334,6 @@ The operating cycle for a typical manufacturing plant:
 
 - Diluted EPS accounts for the dilution effect  in EPS if theres a increase in common shares outstanding
 
-- Comprehensive income is the total change in quity for a reporting period other than that from transactions with owners.
+- Comprehensive income is the total change in equity for a reporting period other than that from transactions with owners.
 
-- The statement of cash flows provides information about cash receipts and cash disbursements that occured during a period. (flows of value)
+- The statement of cash flows provides information about cash receipts and cash disbursements that occurred during a period. (flows of value)
