@@ -237,7 +237,7 @@
 - Limitations: Assets minus liabilities is not likely to represent the market value of the entity (number of common stock shares outstanding multiplied by price per share)
 
 
-The operating cycle for a typical manufacturing plant:![./ACCY301_notes/imgs/Day4-OCycle.png](./ACCY301_notes/imgs/Day4-OCycle.png)
+The operating cycle for a typical manufacturing plant:  ![./ACCY301_notes/imgs/Day4-OCycle.png](./ACCY301_notes/imgs/Day4-OCycle.png)
 
 
 - Assets can be either:
@@ -302,12 +302,12 @@ The operating cycle for a typical manufacturing plant:![./ACCY301_notes/imgs/Day
 
 - A single-step income statement format groups all revenues and gains together and all expenses and losses together
 
-  - Example: ![./ACCY301_notes/imgs/Day5-SingleStepIncome..png](./ACCY301_notes/imgs/Day5-SingleStepIncome.png)
+  - Example:  ![./ACCY301_notes/imgs/Day5-SingleStepIncome.png](./ACCY301_notes/imgs/Day5-SingleStepIncome.png)
 
 
 - A Multiple-step income statement format includes a number of intermediate subtotals before arriving at income  from continuing operations:
 
-  - Example: ![./ACCY301_notes/imgs/Day5-MultStepIncome.png](./ACCY301_notes/imgs/Day5-MultStepIncome.png)
+  - Example:  ![./ACCY301_notes/imgs/Day5-MultStepIncome.png](./ACCY301_notes/imgs/Day5-MultStepIncome.png)
 
 - In the US, the bottom line  of the income statement usually is called net income or net loss.
 
